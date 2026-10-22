@@ -1,10 +1,23 @@
+![Jonathan Santiago — Apps y páginas web para tu negocio](img/banner.webp)
+
+<div align="center">
+
 # ¡Hola, soy Jonathan Santiago! 👋
 
-![baner1](baner1.webp)
+<a href="https://github.com/Jsantiago28"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=2800&pause=900&color=25D366&center=true&vCenter=true&width=600&lines=Apps+para+prestamistas+%F0%9F%92%B0;Agendas+para+barber%C3%ADas+%E2%9C%82%EF%B8%8F;Landing+pages+conectadas+a+WhatsApp+%F0%9F%93%B2;Sistemas+a+la+medida+de+tu+negocio+%F0%9F%9A%80" alt="Apps para prestamistas, agendas para barberías, landing pages y sistemas a la medida" /></a>
 
-### Desarrollo apps y páginas web para negocios en República Dominicana 🇩🇴
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/18299838973)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:applej904@gmail.com)
+[![CrediSantiago](https://img.shields.io/badge/CrediSantiago-en_vivo-2563EB?style=for-the-badge&logo=netlify&logoColor=white)](https://credisantiago.netlify.app)
 
-Creo sistemas a la medida para negocios reales: prestamistas, barberías y emprendedores que quieren dejar el cuaderno, organizarse desde el celular y atender mejor a sus clientes.
+</div>
+
+Desarrollador en **República Dominicana**. Creo apps y sistemas a la medida para negocios reales: prestamistas, barberías y emprendedores que quieren dejar el cuaderno, organizarse desde el celular y atender mejor a sus clientes.
+
+- 🔭 Ahora mismo: terminando **Barbería PRO** y mejorando **CrediSantiago**
+- 🛠️ Mi stack principal: **Flutter + Supabase** para apps, **Astro / React + Tailwind** para web
+- 💬 Pregúntame sobre: apps para negocios, cobros por WhatsApp, landing pages
+- ⚡ Dato: aprendí construyendo cosas que la gente usa de verdad
 
 ---
 
@@ -62,7 +75,6 @@ Agenda para barberías y salones: **reserva pública** con apartado, agenda del 
 | **2024** | Empiezo con HTML, CSS y JavaScript. Proyecto final de Python en equipo: un [gestor de tareas](https://github.com/Jsantiago28/FINAL_PYTHON-1-) con filtros y guardado en JSON. |
 | **2026** | Publico **CrediSantiago**, una app completa con usuarios, planes de pago y cobradores, y empiezo **Barbería PRO**. |
 
-Aprendo construyendo cosas que la gente usa de verdad. 🛠️
 
 ---
 
