@@ -6,6 +6,7 @@
 
 <a href="https://github.com/Jsantiago28"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=2800&pause=900&color=25D366&center=true&vCenter=true&width=600&lines=Apps+para+prestamistas+%F0%9F%92%B0;Agendas+para+barber%C3%ADas+%E2%9C%82%EF%B8%8F;Landing+pages+conectadas+a+WhatsApp+%F0%9F%93%B2;Sistemas+a+la+medida+de+tu+negocio+%F0%9F%9A%80" alt="Apps para prestamistas, agendas para barberías, landing pages y sistemas a la medida" /></a>
 
+[![Portafolio](https://img.shields.io/badge/Portafolio-jonathansantiago.pages.dev-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)](https://jonathansantiago.pages.dev)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/18299838973)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:applej904@gmail.com)
 [![CrediSantiago](https://img.shields.io/badge/CrediSantiago-en_vivo-2563EB?style=for-the-badge&logo=netlify&logoColor=white)](https://credisantiago.netlify.app)
@@ -82,5 +83,6 @@ Agenda para barberías y salones: **reserva pública** con apartado, agenda del 
 
 ¿Tienes un negocio y quieres organizarlo o tener tu página web?
 
+[![Portafolio](https://img.shields.io/badge/Portafolio-jonathansantiago.pages.dev-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)](https://jonathansantiago.pages.dev)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/18299838973)
 [![Gmail](https://img.shields.io/badge/applej904@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:applej904@gmail.com)
